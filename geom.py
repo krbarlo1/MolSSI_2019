@@ -1,5 +1,7 @@
 #!/usr/bin/python3.4m
-
+"""
+Functions and scripts for geom analysis
+"""
 import numpy
 import os
 import sys
