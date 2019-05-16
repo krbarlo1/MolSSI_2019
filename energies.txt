@@ -1,0 +1,20 @@
+butanol = -145688.31249230888 
+decanol = -292664.58543671406 
+ethanol = -96695.21959272923 
+heptanol = -219176.05669194157 
+hexanol = -194680.57413092125 
+methanol = -72194.8113203878 
+nonanol = -268168.05963403883 
+octanol = -243672.5846614528 
+pentanol = -170184.01952858438 
+propanol = -121191.71690593565 
+For butanol the energy is -145688.31249230888 is kcal/mol. 
+For decanol the energy is -292664.58543671406 is kcal/mol. 
+For ethanol the energy is -96695.21959272923 is kcal/mol. 
+For heptanol the energy is -219176.05669194157 is kcal/mol. 
+For hexanol the energy is -194680.57413092125 is kcal/mol. 
+For methanol the energy is -72194.8113203878 is kcal/mol. 
+For nonanol the energy is -268168.05963403883 is kcal/mol. 
+For octanol the energy is -243672.5846614528 is kcal/mol. 
+For pentanol the energy is -170184.01952858438 is kcal/mol. 
+For propanol the energy is -121191.71690593565 is kcal/mol. 
